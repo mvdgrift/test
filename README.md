@@ -8,3 +8,6 @@ function1:
 
 function2:
   print Hello world
+
+function3:
+  print Hi world
