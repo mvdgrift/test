@@ -11,3 +11,6 @@ function2:
 
 function3:
   print Hi world
+  
+function4:
+  print new feature
